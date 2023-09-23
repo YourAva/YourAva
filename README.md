@@ -1,18 +1,18 @@
-console.log("👋 Hi, I’m @YourAva") /** Duh... */
-var interests = "🔎 I’m interested in PCB/Hardware development, along with some coding. I'm also planning to get into modding retro consoles!"
-var learning = "🌱 I’m currently learning C++"
-  
-function howToTalk(twitter, discord) {
-  var twitter = [@AvaLikesBread](https://twitter.com/AvaLikesBread)
-  var discord = [ihavebadligma](https://discord.gg/XXRmVY58gE)
-  return "Check me out if you want! 🥰"
-}
-
-function pastProjects(sleepyBot, stm32) {
-  var sleepyBot = [SleepyBot](https://github.com/YourAva/SleepyBot)
-  var stm32 = [STM32](https://github.com/YourAva/OnBoard/tree/main/projects/STM32--BLUEPILL)
-  return "More to come 👀"
-}
+console.log("👋 Hi, I’m @YourAva") /** Duh... */\n
+var interests = "🔎 I’m interested in PCB/Hardware development, along with some coding. I'm also planning to get into modding retro consoles!"\n
+var learning = "🌱 I’m currently learning C++"\n
+\n
+function howToTalk(twitter, discord) {\n
+  var twitter = [@AvaLikesBread](https://twitter.com/AvaLikesBread)\n
+  var discord = [ihavebadligma](https://discord.gg/XXRmVY58gE)\n
+  return "Check me out if you want! 🥰"\n
+}\n
+\n
+function pastProjects(sleepyBot, stm32) {\n
+  var sleepyBot = [SleepyBot](https://github.com/YourAva/SleepyBot)\n
+  var stm32 = [STM32](https://github.com/YourAva/OnBoard/tree/main/projects/STM32--BLUEPILL)\n
+  return "More to come 👀"\n
+}\n
 
 # Stats 🗿
 
