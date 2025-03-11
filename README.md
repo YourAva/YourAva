@@ -1,6 +1,6 @@
 
 
-# 🎭 AvaLikesBread -- *[@AvaLikesBread](https://x.com/AvaLikesBread)*
+# 🎭 AvaLikesBread -- *[@AvaLikesBread](https://bsky.app/profile/avalikesbread.bsky.social)*
 
 ## $ ./Stats
 ![AvaLikesBread's Github Stats](https://github-readme-stats.vercel.app/api?username=YourAva&theme=tokyonight&show_icons=true)
