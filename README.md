@@ -11,7 +11,7 @@
 ## $ ./Website
 ``-bash: ./Website: Permission denied``
 oops...
-``$ chmod +x AboutMe``
+``$ chmod +x Website``
 ``$ ./Website``
 
 Check out [avalikesbread.xyz](https://www.avalikesbread.xyz/) rn
