@@ -1,6 +1,6 @@
 ### whoami
 
-I'm Ava, I'm Currently studying offensive security and malware development. Offsec stuff can be found on my hackthebox profile linked below and most maldev is found on my github.
+I'm Cro, I'm Currently studying offensive security and malware development. Offsec stuff can be found on my hackthebox profile linked below and most maldev is found on my github.
 
 ### Other Places
   🌵[hackthebox](https://app.hackthebox.com/profile/overview)
